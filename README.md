@@ -7,9 +7,9 @@ Landing page:
 
 | Name     | Tasks                                                               |
 |:---------|:-------------------------------------------------------------------:|
-| Lobna    | Logo - social media posts - billboards and signs - landing page     |
-| Toka     | social media posts - Presentation                                   |
-| Tasbeeh  | Gen building and intrance - prints/Merch                            |
-| Mariem   | social media posts - Booklet                                        |
-| Sohaila  | Staff uniforms - Medical staus file                                 |
+| Lobna    | Logo - Social media posts - Billboards and signs - Landing page     |
+| Toka     | Social media posts - Presentation                                   |
+| Tasbeeh  | Gen building and intrance - Prints/Merch                            |
+| Mariem   | Social media posts - Booklet                                        |
+| Sohaila  | Staff uniforms - Medical status file                                |
 | Hager    | Medical kit - Fliers                                                |
